@@ -1,0 +1,113 @@
+body {
+	padding:o;
+	margin:0;
+	text-align:center;
+}
+
+.t {
+	float:left;
+	width:100%;
+	height:10px;
+	overflow:hidden;
+	clear:both;
+}
+
+#container {
+	width:1600px;
+	margin:0 auto;
+	text-align:left;
+}
+
+#header {
+	float:left;
+	width:100%;
+	
+}
+
+#logo {
+	float:left;
+	width:380px;
+	height:160px;
+	background:#F0F;
+}
+
+#banner {
+	float:left;
+	margin-left:10px;
+	width:930px;
+	height:160px;
+	background:yellow;
+}
+
+#tool {
+	float:right;
+	width:270px;
+	height:160px;
+	background:#aaFF00;
+}
+
+#nav {
+	float:left;
+	width:100%;
+	height:30px;
+	background:#00BBFF;
+	
+}
+
+#content {
+	float:left;
+	width:100%;
+
+}
+
+.main {
+	float:left;
+	width:1200px;
+	
+	
+}
+
+.main .left {
+	float:left;
+	width:470px;
+	height:200px;
+	background:#ccc;
+}
+
+.main .right {
+	float:right;
+	height:200px;
+	width:720px;
+	background:#ccc;
+}
+
+
+.barside {
+	float:right;
+	width:390px;
+	
+	background:yellow;
+}
+
+.barside_h1 {
+	height:410px
+}
+.barside_h2 {
+	height:620px;
+}
+
+.ad {
+	float:left;
+	width:100%;
+	height:100px;
+	clear:both;
+	background:red;
+	
+}
+
+#footer {
+	float:left;
+	width:100%;
+	height:150px; /*tmp*/
+	background:blue;
+}
